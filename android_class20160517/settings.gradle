@@ -1,0 +1,2 @@
+include ':app'
+include ':com.android.support:appcompat-v7'
